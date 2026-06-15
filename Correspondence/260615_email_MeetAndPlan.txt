@@ -1,0 +1,207 @@
+
+Amir Yehudayoff <amye@di.ku.dk>, Nutan Limaye <nuli@itu.dk>, Srikanth Srinivasan <srsr@di.ku.dk>, Noah Fleming <noah.fleming@cs.lth.se>, Susanna Rezende <susanna.rezende@cs.lth.se>
+
+Meet and plan for DNRF Centre of Excellence application?
+
+Hi all,
+
+Much later than planned (and with thanks to Nutan for gentle reminders!), here comes a message to try to nudge us to meet and plan for a new DNRF Centre of Excellence application for a computational complexity research centre in Copenhagen.
+
+Cutting straight to the chase:
+
+(1) MEETING: Could we all fill in the poll at https://www.when2meet.com/?37113963-pn3Lm as soon as possible to see when we could meet? Ideally, this would be a physical meeting at Vibenshuset, but I am thinking that Zoom could also be made to work (and that having the meeting as soon as possible is probably more important than gathering everybody at the same place).
+
+(2) INFORMATION ABOUT THE CALL: The webpage for the call is https://dg.dk/en/centers-of-excellence-assessment-and-selection-of-applications-etc/ and the guidelines for applicants are at https://dg.dk/wp-content/uploads/2026/02/guide-for-applicants-13th-round-final.pdf .
+
+The application deadline (for the first round of pre-proposals) is September 11.
+
+Perhaps a little bit annoyingly, the format of the application is not yet published --- the application guidelines say that "[a]n electronic application system is currently being developed and will be published on the foundation's website no later than July 1, 2026."
+
+I was at a DNRF information meeting in March (see the message below), from which I attach the information slides.
+
+(3) APPLICATION REPO: I have created a GitHub repository at https://github.com/jakobnordstrom/DNRF_CenterOfExcellence_2026 .
+
+Noah: I don't have a GitHub user name for you, but if you send it to me I will invite you.
+
+All others: You should have received invitations.
+
+(4) PREVIOUS APPLICATION: As a basis for our discussions, I attach the application we submitted back in 2023. I think we were somewhat happy with the general thrust of this application, but the grant committee was not. They found the application to vague, as explained more in detail next.
+
+One new aspect in this call, which we would need to discuss carefully, is that the budget is much more flexible. We can ask for substantially more money this time, but in order to do so I am guessing that we would also need a clear and credible explanation why DNRF should allocate tons of money for strictly theoretical research.
+
+We should also discuss the line-up of co-PIs. 
+
+Noah: Since you have joined Lund University, we have agreed to include you.
+
+My understanding is that Paloma de Lima has left ITU for all practical purposes, and so she is not a recipient of this message.
+
+One other possible candidate to consider is Holger Dell --- my understanding is that he might be gravitating back towards ITU.  But Radu Curticapean is --- again according to my understanding --- basically in Germany these days, though he might have retained a formal affiliation with ITU.
+
+(Hopefully Nutan can clarify to what extent my understanding of the situation at ITU agrees with the actual facts.)
+
+(5) DNRF FEEDBACK ON PREVIOUS APPLICATION: Below follow notes from a phone conversation I had with CEO Søren-Peter Olesen at the Danish National Research Foundation in May 2024.
+
+The group of researchers behind the application was excellent. The centre leader was also fine.
+
+The panel was not so happy about the project. The application seemed to describe a field rather than a concrete project. DNRF does not want concrete milestones, but still the proposal was too vague/broad.
+
+There was very little information in the proposal about what would happen. The proposal should describe more concretely what some of the goals would be and how these goals would be reached. It would be better if we made a plan and presented it in the proposal. The actual project would not need to develop exactly according to that plan, but the panel does want to see something concrete.
+
+Thus, the research idea was the main weakness of the proposal.
+
+The centre leader and the team were fine. No objections or suggestions there.
+
+There were also no comments from the panel on the structure/organization of the centre. As a general comment, though, this is an important aspect and it is always a good idea to describe this as clearly as possible. Again, there is an understanding that the project might pan out differently, but it it good to see that there are concrete plans for what might happen. When centres of excellent do not work out as intended, it is often because the different researchers involved in the project did not actually form a joint centre in the end. This is something that DNRF have discovered when they have had evaluation visits, and therefore it is of interest to see that there are believable plan for actually creating a centre environment rather than just distributing money to parallel and mostly independent activities.
+
+As a final comment to summarize, it is important to give the panel something tangible to relate to.
+
+(6) PERSONAL REFLECTIONS ON DNRF FEEDBACK: Here are my (lightly edited) notes after the phone call with DNRF:
+
+In the conversation I had with Søren, I felt that he went out of his way to stress that DNRF does understand that mathematical research is special, and that it is hard (or impossible) to say exactly what will happen. Still, he emphasized several times that the panel needed to get some kind of sense of what they would be funding, and that our proposal did not convey such an understanding. At the end of the day, this does not seem unfair to me. It is a gigantic grant, and when deciding between many excellent proposals, the panel will not want to invest large amounts of taxpayer money into a project where it it just not possible to understand what research returns such an investment might bring. 
+
+My take-away from this, therefore, is that in the next iteration of the proposal, we should outline some fairly concrete hypothetical projects and research goals, and explain how they would fit nicely together. This could be (from our point of view) quite speculative, and an expert reviewer would understand that there is no way that we could promise that it would be in exactly this way that the centre activities would develop. But in the first round of the application we would not be writing for such expert reviewers, but for the generalists in the DNRF panel. In our text written for them, we could say that we describe one of many possible scenarios, and then proceed to explain, in this particular scenario, how our research into different areas would come beautifully together and how the different competences of the co-PIs would create a whole that is much greater than the sum of its parts. We could then conclude by emphasizing that there are many other ways in which this could also happen.
+
+Please fill in the poll for meeting times as soon as possible, and we will take it from there!
+
+Jakob
+
+-------- Forwarded Message --------
+Subject: 	Slides from information meeting 11th March at UCPH Nørre Campus: DNRF Centres of Excellence
+Date: 	Fri, 13 Mar 2026 14:44:27 +0100
+From: 	Christine Finnie <christine.finnie@adm.ku.dk>
+To: 	Melanie Blasius <blasius@adm.ku.dk>
+
+
+Dear colleague
+
+ 
+
+Thank you for participating in the information meeting with the Danish National Research Foundation at Nørre Campus on 11th March. We hope you found it informative.
+
+The slides from the meeting are attached together with the guide for applicants.
+
+ 
+
+We recommend that UCPH applicants get in touch with us as early as possible at the respective research funding sections, to make the most of the support that we offer:
+
+ 
+
+Campus Frb+: Casper Tai Christensen ctc@adm.ku.dk, Christen Artagnan Sørensen cas@adm.ku.dk
+
+Campus Nørre: Melanie Blasius blasius@adm.ku.dk, Christine Finnie christine.finnie@adm.ku.dk
+
+ 
+
+Campus Søndre: forskningsfinansiering-soendre@adm.ku.dk​
+
+ 
+
+Budget:
+
+We recommend that you discuss your budget requirements with your institute leadership and co-applicants at the earliest opportunity. You can get help from your financial officer to prepare the NIMBUS budget, which will need to be approved by the institute(s) prior to submission of the Stage I application. If you are unsure who to contact at the finance department, please get in touch with us at the research funding units.
+
+ 
+
+If the UCPH share of your budget is over 40 MDKK and you are invited to submit a Stage II application (you will be informed in January 2027), the Rector’s approval will be needed. We will assist you with that, but note that it requires your finalized budget to be approved by all parties well before the deadline in April. We will update with internal deadlines closer to the time.
+
+ 
+
+Pitch and get feedback on your Centre of Excellence idea
+
+We plan to hold a number of sessions where you can pitch your idea to a panel of interdisciplinary experts from UCPH, and get their feedback to help you prepare the best application for Stage I. These sessions will be held in May-June. To give us an estimate of demand, please let us know by reply whether you would be interested in this opportunity.
+
+ 
+
+We look forward to hearing from you!
+
+ 
+
+Chris and Melanie
+
+ 
+
+Christine Finnie
+
+Research Advisor
+
+ 
+
+University of Copenhagen
+
+Research Funding Nørre Campus
+
+Blegdamsvej 3
+
+København N.
+
+ 
+
+DIR +45 35 33 19 58
+
+MOB +45 93 50 99 52
+
+christine.finnie@adm.ku.dk
+
+ 
+
+Logo for Københavns Universitet
+
+ 
+
+How we protect personal data
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Christine Finnie
+
+Research Advisor
+
+ 
+
+University of Copenhagen
+
+Research Funding Nørre Campus
+
+Blegdamsvej 3
+
+København N.
+
+ 
+
+DIR +45 35 33 19 58
+
+MOB +45 93 50 99 52
+
+christine.finnie@adm.ku.dk
+
+ 
+
+Logo for Københavns Universitet
+
+ 
+
+How we protect personal data
+
+ 
+
+ 
+
+ 
+
+ 
